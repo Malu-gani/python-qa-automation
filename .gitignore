@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+__pycache__/
+
+# Archivos de sistema y logs
+*.log
+.DS_Store
+Thumbs.db
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
