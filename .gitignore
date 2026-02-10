@@ -23,3 +23,8 @@ playwright/.cache/
 # Reportes de Pytest
 .pytest_cache/
 reporte.html
+
+.tmp.*/
+
+
+
