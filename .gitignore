@@ -14,3 +14,12 @@ test-results/
 playwright-report/
 blob-report/
 playwright/.cache/
+# Evidencia de tests (Capturas y Videos)
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# Reportes de Pytest
+.pytest_cache/
+reporte.html

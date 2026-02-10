@@ -1,0 +1,9 @@
+{
+    "black-formatter.importStrategy": "fromEnvironment",
+    "black-formatter.path": [
+        "black"
+    ],
+    "black-formatter.interpreter": [
+        "./.venv/Scripts/python.exe"
+    ]
+}
